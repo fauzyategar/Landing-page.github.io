@@ -1,0 +1,221 @@
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightpink;
+}
+
+.header {
+    text-align: center;
+    overflow: hidden;
+    font-family: Lucida Console;
+    font-size: 30px;
+    font-weight: bold; 
+    color: #736F6E;
+    background-color: #AFDCEC;
+    background-size: cover;
+    border-radius: 20px;
+    width: 60%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin:  0 auto;
+}
+
+.list a {
+    float: left;
+    display: block;
+    color: darkblue;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    font-family: Arial Rounded MT Bold;
+}
+
+.active {
+    background-color: #F0D9FF;
+    border-left: 2px solid hotpink;
+    border-right: 2px solid hotpink;
+}
+
+.first {
+    text-align: center;
+    font-size: 23px;
+    background-size: cover;
+    width: 80%;
+    padding-left: 10%;
+}
+
+.friend {
+    border-radius: 20px;
+    text-align: center;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin: 0 auto;
+}
+
+.teman p {
+    margin: 13px;
+    margin-top: 10%;
+    border-radius: 20px;
+    background-color: #d9e2ff;
+    margin-left: 10%;
+    margin-right: 7%;
+    margin-bottom: 2%;
+    background-size: cover;
+    padding-bottom: 0 auto;
+}
+
+.teman img {
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    margin-left: 110px;
+    margin-right: 0 auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: transparent;
+}
+
+.teman ul {
+    float: right;
+    margin-right: 90px;
+    margin-left: 10px;
+    width: 580px;
+    text-align: center;
+}
+
+
+.teman {
+    margin: 30px;
+    margin-top: 10px;
+    width: 90%;
+    border-radius: 40px;
+    background-color: #d9e2ff;
+    margin-left: 60px;
+    margin-left: 60px;
+}
+
+.teman1 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    margin-left: 0 auto;
+    margin-right: 110px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: transparent;
+}
+
+.teman1 {
+    margin: 30px;
+    margin-top: 30px;
+    width: 90%;
+    border-radius: 40px;
+    background-color: #d9e2ff;
+    margin-left: 60px;
+    margin-left: 60px;
+}
+
+.teman1 ul {
+    float: left;
+    margin-right: 90px;
+    width: 580px;
+    text-align: center;
+}
+
+.teman1 p {
+    margin: 13px;
+    margin-top: 14%;
+    border-radius: 20px;
+    background-color: #d9e2ff;
+    margin-left: 10%;
+    margin-right: 7%;
+    margin-bottom: 2%;
+    background-size: cover;
+    padding-bottom: 0 auto;
+}
+
+.teman2 img {
+    width: 200px;
+    height: 240px;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-right: 0 auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: transparent;
+}
+
+.teman2 {
+    margin: 30px;
+    margin-top: 30px;
+    width: 90%;
+    border-radius: 40px;
+    background-color: #d9e2ff;
+    margin-left: 60px;
+    margin-left: 60px;
+}
+
+.teman2 ul {
+    float: left;
+    margin-right: 90px;
+    margin-left: 10px;
+    width: 580px;
+    text-align: center;
+}
+
+.teman2 p {
+    margin: 13px;
+    margin-top: 7%;
+    border-radius: 20px;
+    background-color: #d9e2ff;
+    margin-left: 10%;
+    margin-right: 7%;
+    margin-bottom: 2%;
+    background-size: cover;
+    padding-bottom: 0 auto;
+}
+
+.teman3 img {
+    width: 200px;
+    height: 240px;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-right: 0 auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: transparent;
+}
+
+.teman3 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    margin-left: 110px;
+    margin-right: 0 auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: transparent;
+}
+
+.teman3 ul {
+    float: right;
+    margin-right: 90px;
+    margin-left: 10px;
+    width: 580px;
+    text-align: center;
+}
+
+
+.teman3 {
+    margin: 30px;
+    margin-top: 10px;
+    width: 90%;
+    border-radius: 40px;
+    background-color: #d9e2ff;
+    margin-left: 60px;
+    margin-left: 60px;
+}
