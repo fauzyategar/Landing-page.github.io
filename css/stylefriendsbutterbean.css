@@ -69,8 +69,8 @@ body {
 }
 
 .teman img {
-    width: 250px;
-    height: 250px;
+    width: 160px;
+    /* height: 250px; */
     border-radius: 25px;
     margin-left: 110px;
     margin-right: 0 auto;
@@ -99,8 +99,8 @@ body {
 }
 
 .teman1 img {
-    width: 250px;
-    height: 250px;
+    width: 170px;
+    /* height: 250px; */
     border-radius: 25px;
     margin-left: 0 auto;
     margin-right: 110px;
@@ -139,8 +139,8 @@ body {
 }
 
 .teman2 img {
-    width: 200px;
-    height: 240px;
+    width: 170px;
+    /* height: 240px; */
     border-radius: 25px;
     margin-left: 20px;
     margin-right: 0 auto;
@@ -191,12 +191,12 @@ body {
 }
 
 .teman3 img {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    /* height: 250px; */
     border-radius: 25px;
     margin-left: 110px;
     margin-right: 0 auto;
-    margin-top: 1%;
+    margin-top: 2%;
     margin-bottom: 1%;
     color: transparent;
 }
@@ -211,9 +211,10 @@ body {
 
 
 .teman3 {
+    width: 90%;
+    height: 290px;
     margin: 30px;
     margin-top: 10px;
-    width: 90%;
     border-radius: 40px;
     background-color: #d9e2ff;
     margin-left: 60px;
